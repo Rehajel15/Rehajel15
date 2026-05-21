@@ -1,6 +1,6 @@
 # Hey, I'm Rehajel 👋
 
-High school student with a passion for coding — usually with music playing or a movie in the background.
+High school student with a passion for coding — usually with music playing.
 
 ## What I Do
 
