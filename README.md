@@ -4,13 +4,15 @@
   High school student with a passion for coding — usually with music playing.
 </p>
 
-<p align="center">
-  <strong><em>Quality over quantity.</em></strong>
-</p>
-
 ## What I Do
 
-I build full-stack web applications, cross-platform apps and deep learning models — for the fun of it, but always with that one rule in mind.
+I build full-stack web applications, cross-platform apps and deep learning models — for the fun of it, and for the challenge.
+
+## My Motto
+
+> **Quality over quantity.**
+>
+> I'd rather finish a few projects properly than leave a long list half-done.
 
 ## Tech Stack
 
